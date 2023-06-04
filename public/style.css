@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(wallpaperflare.com_wallpaper\ \(18\).jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: sans-serif;
+  }
+  .card-body{
+    background-color: salmon;
+  }
+
+  .mb-3{
+    font-size: 2ch;
+  }
